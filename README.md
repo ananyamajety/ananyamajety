@@ -1,57 +1,63 @@
-# 👋 Hello, I'm Ananya.  
-### Web Developer | Data Analyst | Problem Solver | LLMops
+# Hi there, I'm Ananya 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyamajety2003/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AnanyaMaje35310) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananyamajety20@gmail.com)
+GitHub: https://github.com/ananyamajety
 
----
-
-## 🚀 About Me  
-I build engaging websites & craft insightful data solutions. Combining creativity with analytical rigor to transform ideas into impactful digital experiences and decisions.
-
-## 💡 What I Do  
-- Develop responsive, user-friendly web applications with modern frameworks  
-- Extract, analyze, and visualize complex data to drive actionable insights  
-- Collaborate with teams to optimize workflows using data-driven decisions  
-- Automate data processes and reporting for efficiency and accuracy
-
-## 🛠 My Toolbox  
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="28" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" />
-</div>
-
-## 🎯 Highlights & Achievements  
-- Built multiple full-stack web apps delivering seamless user experiences  
-- Developed dashboards and reports that informed key business strategies  
-- Automated data pipelines saving hours of manual reporting weekly  
-- Presented analyses and visualizations to cross-functional teams  
-
-## 📊 GitHub Activity  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananyamajety&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyamajety&layout=compact&theme=radical)
+🎓 B.Tech in Computer Science (AI & ML) | 💡 Aspiring Analyst / AI Enthusiast  
+🌍 Open to opportunities in AI/ML, Business Analytics, and Tech-driven roles
 
 ---
 
-## 📬 Let's Connect!  
-Let's collaborate or chat about web development, data, or anything tech:  
-[LinkedIn](https://www.linkedin.com/in/ananyamajety2003/) | [Twitter](https://x.com/AnanyaMaje35310) | [Email](mailto:your-ananyamajety20@gmail.com)
+## About Me
+- 🔭 Currently working on AI/ML projects and exploring data-driven applications
+- 🌱 Learning Web Development (HTML, CSS, JS, React) and strengthening DSA in Python
+- 💼 Internship experiences in data analytics, AI projects, and technical research
+- 🎯 Strong communication and analytical skills with interest in business + technology blend
+- ⚡ Fun fact: I enjoy combining creativity and tech to build impactful solutions
 
 ---
 
-## 🎉 Fun Facts  
-- Passionate about turning data into stories and experiences  
-- Open-source contributor in JavaScript and Python projects  
-- Avid reader of tech articles and a coffee enthusiast  
+## Tech Stack
+
+Languages and Frameworks
+- Python | Java | JavaScript | HTML | CSS | React
+
+AI / ML and Data
+- NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | NLTK | spaCy | Transformers | LangChain
+
+Databases and Tools
+- MySQL | MongoDB | Git / GitHub | Jupyter Notebook | VS Code | Postman | Swagger UI
+
+Cloud and Deployment
+- AWS (Free Tier) | Streamlit | FastAPI
 
 ---
 
-## Code and Data Together Create powerful stories.
+## Featured Projects
+
+- AI-Powered Resume Parser — https://github.com/Ananya-1227/ai-powered-resume-parser  
+- RAG Pipeline with FAISS — https://github.com/Ananya-1227/rag-faiss-pipeline  
+- Weather App (FastAPI + Streamlit) — https://github.com/Ananya-1227/weather-app-fastapi-streamlit  
+- DSA in Python — https://github.com/Ananya-1227/dsa-python
+
+(If a project URL above does not exist yet, replace it with the correct repo link or remove the line.)
+
+---
+
+## GitHub Stats
+
+![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyamajety&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyamajety&layout=compact&theme=tokyonight)
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/ananyamajety
+- LinkedIn: https://www.linkedin.com/in/ananyamajety2003/
+- Email: mailto:ananyamajety20@gmail.com
+- Portfolio: 
+
+---
+
+Code + Data + Curiosity = Innovation
