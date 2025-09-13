@@ -43,7 +43,7 @@ I build engaging websites & craft insightful data solutions. Combining creativit
 
 ## 📬 Let's Connect!  
 Let's collaborate or chat about web development, data, or anything tech:  
-[LinkedIn](your-linkedin-url) | [Twitter](your-twitter-url) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/ananyamajety2003/) | [Twitter](https://x.com/AnanyaMaje35310) | [Email](mailto:your-ananyamajety20@gmail.com)
 
 ---
 
