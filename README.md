@@ -54,4 +54,4 @@ Let's collaborate or chat about web development, data, or anything tech:
 
 ---
 
-##Code and Data Together Create powerful stories.
+## Code and Data Together Create powerful stories.
