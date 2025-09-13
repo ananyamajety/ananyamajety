@@ -36,8 +36,8 @@ I build engaging websites & craft insightful data solutions. Combining creativit
 - Presented analyses and visualizations to cross-functional teams  
 
 ## 📊 GitHub Activity  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananyamajety&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyamajety&layout=compact&theme=radical)
 
 ---
 
